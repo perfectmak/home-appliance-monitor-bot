@@ -1,0 +1,6 @@
+//normal text sample message
+{"object":"page","entry":[{"id":"528933833981608","time":1490353466061,"messaging":[{"sender":{"id":"1504767159549659"},"recipient":{"id":"528933833981608"},"timestamp":1490353465984,"message":{"mid":"mid.$cAAHhEGDxIhBhMUJygFa__0kn6XSF","seq":121774,"text":"hey"}}]}]}
+
+//account linking sample message
+{"object":"page","entry":[{"id":"528933833981608","time":1490353525650,"messaging":[{"recipient":{"id":"528933833981608"},"timestamp":1490353525650,"sender":{"id":"1504767159549659"},"account_linking":{"authorization_code":"facebook|10209981815775533","status":"linked"}}]}]}
+
