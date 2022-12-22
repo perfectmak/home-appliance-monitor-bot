@@ -23,7 +23,7 @@
     "grunt-sync": "0.5.2",
     "include-all": "^1.0.0",
     "iron_mq": "^0.9.2",
-    "jsonwebtoken": "^7.2.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.4",
     "rc": "1.0.1",
     "sails": "~0.12.11",
